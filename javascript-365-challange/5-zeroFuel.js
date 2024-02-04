@@ -1,4 +1,4 @@
-// Exercise Day-5-JavaScript. Zero Fuel
+// Exercise: Day-5-JavaScript. Zero Fuel
 // Source: https://www.codewars.com/kata/5861d28f124b35723e00005e/train/javascript
 
 function zeroFuelLong(distanceToPump, mpg, fuelLeft) {

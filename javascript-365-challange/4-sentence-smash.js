@@ -1,4 +1,4 @@
-// ExerciceL Day-4-JavaScript. Sentence Smash
+// Exercice: Day-4-JavaScript. Sentence Smash
 // Source: https://www.codewars.com/kata/53dc23c68a0c93699800041d/train/javascript
 
 function smashLong(words) {
